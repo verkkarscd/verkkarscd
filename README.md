@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @verkkarscd
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️  I want to translate some games.
 - 📫 verkkars@foxmail.com
-<!---
-verkkarscd/verkkarscd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Which side are you on?Boys
+Which side are you on?
